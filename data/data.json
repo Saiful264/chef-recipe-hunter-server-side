@@ -1,0 +1,338 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "picture": "https://example.com/chef1.jpg",
+        "name": "John Smith",
+        "years_of_experience": 10,
+        "num_of_recipes": 50,
+        "likes": 10000,
+        "description": "Chef John Smith is a seasoned professional with a decade of experience in the culinary industry. He has created over 50 unique and delicious recipes that have gained him a following of 10,000 loyal fans.",
+        "recipes": [
+            {
+                "name": "Classic Margherita Pizza",
+                "img": "https://example.com/pizza_margherita.jpg",
+                "ingredients": [
+                    "1 lb pizza dough",
+                    "1/2 cup tomato sauce",
+                    "8 oz fresh mozzarella, sliced",
+                    "10-12 fresh basil leaves",
+                    "1/4 cup grated Parmesan cheese",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 500°F.\n2. Roll out the pizza dough on a floured surface to a thickness of about 1/4 inch.\n3. Place the dough on a lightly oiled pizza pan or baking sheet.\n4. Spread the tomato sauce over the dough, leaving a 1/2-inch border around the edges.\n5. Arrange the sliced mozzarella over the sauce.\n6. Tear the basil leaves into small pieces and sprinkle them over the cheese.\n7. Sprinkle the grated Parmesan over the top.\n8. Drizzle the olive oil over the pizza.\n9. Season with salt and pepper to taste.\n10. Bake for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+                "rating": 4.8
+            },
+            {
+                "name": "Roasted Lemon Chicken",
+                "img": "https://example.com/roasted_chicken.jpg",
+                "ingredients": [
+                    "1 whole chicken, 3-4 lbs",
+                    "1 lemon, cut into wedges",
+                    "4 garlic cloves, peeled",
+                    "2 tbsp olive oil",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 425°F.\n2. Rinse the chicken inside and out and pat dry with paper towels.\n3. Place the chicken in a roasting pan.\n4. Stuff the lemon wedges and garlic cloves into the cavity of the chicken.\n5. Rub the chicken all over with the olive oil.\n6. Season the chicken with salt and black pepper.\n7. Roast the chicken for 1 hour and 15 minutes, or until the juices run clear when the thickest part of the thigh is pierced with a knife.\n8. Let the chicken rest for 10 minutes before carving and serving.",
+                "rating": 4.5
+            },
+            {
+                "name": "Pesto Pasta Salad",
+                "img": "https://example.com/pesto_pasta_salad.jpg",
+                "ingredients": [
+                    "1 lb pasta, cooked and drained",
+                    "1/2 cup pesto",
+                    "1/2 cup cherry tomatoes, halved",
+                    "1/2 cup sliced black olives",
+                    "1/2 cup crumbled feta cheese",
+                    "1/4 cup chopped fresh basil",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "1. Cook the pasta according to the package instructions. Drain and rinse with cold water.\n2. In a large bowl, toss the cooked pasta with the pesto.\n3. Add the cherry tomatoes, black olives, feta cheese, and basil. Toss to combine.\n4. Drizzle with olive oil and season with salt and pepper to taste.\n5. Serve chilled.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "picture": "https://example.com/chef2.jpg",
+        "name": "Maria Rodriguez",
+        "years_of_experience": 8,
+        "num_of_recipes": 40,
+        "likes": 8000,
+        "description": "Chef Maria Rodriguez is a creative mastermind in the kitchen. With 8 years of experience, she has developed 40 mouth-watering recipes that have earned her a following of 8,000 fans.",
+        "recipes": [
+            {
+                "name": "Classic Margherita Pizza",
+                "img": "https://example.com/pizza_margherita.jpg",
+                "ingredients": [
+                    "1 lb pizza dough",
+                    "1/2 cup tomato sauce",
+                    "8 oz fresh mozzarella, sliced",
+                    "10-12 fresh basil leaves",
+                    "1/4 cup grated Parmesan cheese",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 500°F.\n2. Roll out the pizza dough on a floured surface to a thickness of about 1/4 inch.\n3. Place the dough on a lightly oiled pizza pan or baking sheet.\n4. Spread the tomato sauce over the dough, leaving a 1/2-inch border around the edges.\n5. Arrange the sliced mozzarella over the sauce.\n6. Tear the basil leaves into small pieces and sprinkle them over the cheese.\n7. Sprinkle the grated Parmesan over the top.\n8. Drizzle the olive oil over the pizza.\n9. Season with salt and pepper to taste.\n10. Bake for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+                "rating": 4.8
+            },
+            {
+                "name": "Roasted Lemon Chicken",
+                "img": "https://example.com/roasted_chicken.jpg",
+                "ingredients": [
+                    "1 whole chicken, 3-4 lbs",
+                    "1 lemon, cut into wedges",
+                    "4 garlic cloves, peeled",
+                    "2 tbsp olive oil",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 425°F.\n2. Rinse the chicken inside and out and pat dry with paper towels.\n3. Place the chicken in a roasting pan.\n4. Stuff the lemon wedges and garlic cloves into the cavity of the chicken.\n5. Rub the chicken all over with the olive oil.\n6. Season the chicken with salt and black pepper.\n7. Roast the chicken for 1 hour and 15 minutes, or until the juices run clear when the thickest part of the thigh is pierced with a knife.\n8. Let the chicken rest for 10 minutes before carving and serving.",
+                "rating": 4.5
+            },
+            {
+                "name": "Pesto Pasta Salad",
+                "img": "https://example.com/pesto_pasta_salad.jpg",
+                "ingredients": [
+                    "1 lb pasta, cooked and drained",
+                    "1/2 cup pesto",
+                    "1/2 cup cherry tomatoes, halved",
+                    "1/2 cup sliced black olives",
+                    "1/2 cup crumbled feta cheese",
+                    "1/4 cup chopped fresh basil",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "1. Cook the pasta according to the package instructions. Drain and rinse with cold water.\n2. In a large bowl, toss the cooked pasta with the pesto.\n3. Add the cherry tomatoes, black olives, feta cheese, and basil. Toss to combine.\n4. Drizzle with olive oil and season with salt and pepper to taste.\n5. Serve chilled.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "picture": "https://example.com/chef3.jpg",
+        "name": "David Lee",
+        "years_of_experience": 5,
+        "num_of_recipes": 30,
+        "likes": 5000,
+        "description": "Chef David Lee is a young and ambitious chef with a passion for experimenting with different flavors and cuisines. He has created 30 unique recipes that have gained him a following of 5,000 fans.",
+        "recipes": [
+            {
+                "name": "Classic Margherita Pizza",
+                "img": "https://example.com/pizza_margherita.jpg",
+                "ingredients": [
+                    "1 lb pizza dough",
+                    "1/2 cup tomato sauce",
+                    "8 oz fresh mozzarella, sliced",
+                    "10-12 fresh basil leaves",
+                    "1/4 cup grated Parmesan cheese",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 500°F.\n2. Roll out the pizza dough on a floured surface to a thickness of about 1/4 inch.\n3. Place the dough on a lightly oiled pizza pan or baking sheet.\n4. Spread the tomato sauce over the dough, leaving a 1/2-inch border around the edges.\n5. Arrange the sliced mozzarella over the sauce.\n6. Tear the basil leaves into small pieces and sprinkle them over the cheese.\n7. Sprinkle the grated Parmesan over the top.\n8. Drizzle the olive oil over the pizza.\n9. Season with salt and pepper to taste.\n10. Bake for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+                "rating": 4.8
+            },
+            {
+                "name": "Roasted Lemon Chicken",
+                "img": "https://example.com/roasted_chicken.jpg",
+                "ingredients": [
+                    "1 whole chicken, 3-4 lbs",
+                    "1 lemon, cut into wedges",
+                    "4 garlic cloves, peeled",
+                    "2 tbsp olive oil",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 425°F.\n2. Rinse the chicken inside and out and pat dry with paper towels.\n3. Place the chicken in a roasting pan.\n4. Stuff the lemon wedges and garlic cloves into the cavity of the chicken.\n5. Rub the chicken all over with the olive oil.\n6. Season the chicken with salt and black pepper.\n7. Roast the chicken for 1 hour and 15 minutes, or until the juices run clear when the thickest part of the thigh is pierced with a knife.\n8. Let the chicken rest for 10 minutes before carving and serving.",
+                "rating": 4.5
+            },
+            {
+                "name": "Pesto Pasta Salad",
+                "img": "https://example.com/pesto_pasta_salad.jpg",
+                "ingredients": [
+                    "1 lb pasta, cooked and drained",
+                    "1/2 cup pesto",
+                    "1/2 cup cherry tomatoes, halved",
+                    "1/2 cup sliced black olives",
+                    "1/2 cup crumbled feta cheese",
+                    "1/4 cup chopped fresh basil",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "1. Cook the pasta according to the package instructions. Drain and rinse with cold water.\n2. In a large bowl, toss the cooked pasta with the pesto.\n3. Add the cherry tomatoes, black olives, feta cheese, and basil. Toss to combine.\n4. Drizzle with olive oil and season with salt and pepper to taste.\n5. Serve chilled.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "picture": "https://example.com/chef4.jpg",
+        "name": "Sophie Williams",
+        "years_of_experience": 12,
+        "num_of_recipes": 60,
+        "likes": 12000,
+        "description": "Chef Sophie Williams is a seasoned veteran in the culinary world, with over a decade of experience creating delicious and innovative dishes. She has developed over 60 unique recipes that have gained her a following of 12,000 fans.",
+        "recipes": [
+            {
+                "name": "Classic Margherita Pizza",
+                "img": "https://example.com/pizza_margherita.jpg",
+                "ingredients": [
+                    "1 lb pizza dough",
+                    "1/2 cup tomato sauce",
+                    "8 oz fresh mozzarella, sliced",
+                    "10-12 fresh basil leaves",
+                    "1/4 cup grated Parmesan cheese",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 500°F.\n2. Roll out the pizza dough on a floured surface to a thickness of about 1/4 inch.\n3. Place the dough on a lightly oiled pizza pan or baking sheet.\n4. Spread the tomato sauce over the dough, leaving a 1/2-inch border around the edges.\n5. Arrange the sliced mozzarella over the sauce.\n6. Tear the basil leaves into small pieces and sprinkle them over the cheese.\n7. Sprinkle the grated Parmesan over the top.\n8. Drizzle the olive oil over the pizza.\n9. Season with salt and pepper to taste.\n10. Bake for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+                "rating": 4.8
+            },
+            {
+                "name": "Roasted Lemon Chicken",
+                "img": "https://example.com/roasted_chicken.jpg",
+                "ingredients": [
+                    "1 whole chicken, 3-4 lbs",
+                    "1 lemon, cut into wedges",
+                    "4 garlic cloves, peeled",
+                    "2 tbsp olive oil",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 425°F.\n2. Rinse the chicken inside and out and pat dry with paper towels.\n3. Place the chicken in a roasting pan.\n4. Stuff the lemon wedges and garlic cloves into the cavity of the chicken.\n5. Rub the chicken all over with the olive oil.\n6. Season the chicken with salt and black pepper.\n7. Roast the chicken for 1 hour and 15 minutes, or until the juices run clear when the thickest part of the thigh is pierced with a knife.\n8. Let the chicken rest for 10 minutes before carving and serving.",
+                "rating": 4.5
+            },
+            {
+                "name": "Pesto Pasta Salad",
+                "img": "https://example.com/pesto_pasta_salad.jpg",
+                "ingredients": [
+                    "1 lb pasta, cooked and drained",
+                    "1/2 cup pesto",
+                    "1/2 cup cherry tomatoes, halved",
+                    "1/2 cup sliced black olives",
+                    "1/2 cup crumbled feta cheese",
+                    "1/4 cup chopped fresh basil",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "1. Cook the pasta according to the package instructions. Drain and rinse with cold water.\n2. In a large bowl, toss the cooked pasta with the pesto.\n3. Add the cherry tomatoes, black olives, feta cheese, and basil. Toss to combine.\n4. Drizzle with olive oil and season with salt and pepper to taste.\n5. Serve chilled.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "picture": "https://example.com/chef5.jpg",
+        "name": "Michael Chang",
+        "years_of_experience": 3,
+        "num_of_recipes": 20,
+        "likes": 3000,
+        "description": "Chef Michael Chang is a rising star in the culinary world, with a natural talent for creating unique and flavorful dishes. He has developed 20 recipes that have gained him a following of 3,000 fans.",
+        "recipes": [
+            {
+                "name": "Classic Margherita Pizza",
+                "img": "https://example.com/pizza_margherita.jpg",
+                "ingredients": [
+                    "1 lb pizza dough",
+                    "1/2 cup tomato sauce",
+                    "8 oz fresh mozzarella, sliced",
+                    "10-12 fresh basil leaves",
+                    "1/4 cup grated Parmesan cheese",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 500°F.\n2. Roll out the pizza dough on a floured surface to a thickness of about 1/4 inch.\n3. Place the dough on a lightly oiled pizza pan or baking sheet.\n4. Spread the tomato sauce over the dough, leaving a 1/2-inch border around the edges.\n5. Arrange the sliced mozzarella over the sauce.\n6. Tear the basil leaves into small pieces and sprinkle them over the cheese.\n7. Sprinkle the grated Parmesan over the top.\n8. Drizzle the olive oil over the pizza.\n9. Season with salt and pepper to taste.\n10. Bake for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+                "rating": 4.8
+            },
+            {
+                "name": "Roasted Lemon Chicken",
+                "img": "https://example.com/roasted_chicken.jpg",
+                "ingredients": [
+                    "1 whole chicken, 3-4 lbs",
+                    "1 lemon, cut into wedges",
+                    "4 garlic cloves, peeled",
+                    "2 tbsp olive oil",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 425°F.\n2. Rinse the chicken inside and out and pat dry with paper towels.\n3. Place the chicken in a roasting pan.\n4. Stuff the lemon wedges and garlic cloves into the cavity of the chicken.\n5. Rub the chicken all over with the olive oil.\n6. Season the chicken with salt and black pepper.\n7. Roast the chicken for 1 hour and 15 minutes, or until the juices run clear when the thickest part of the thigh is pierced with a knife.\n8. Let the chicken rest for 10 minutes before carving and serving.",
+                "rating": 4.5
+            },
+            {
+                "name": "Pesto Pasta Salad",
+                "img": "https://example.com/pesto_pasta_salad.jpg",
+                "ingredients": [
+                    "1 lb pasta, cooked and drained",
+                    "1/2 cup pesto",
+                    "1/2 cup cherry tomatoes, halved",
+                    "1/2 cup sliced black olives",
+                    "1/2 cup crumbled feta cheese",
+                    "1/4 cup chopped fresh basil",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "1. Cook the pasta according to the package instructions. Drain and rinse with cold water.\n2. In a large bowl, toss the cooked pasta with the pesto.\n3. Add the cherry tomatoes, black olives, feta cheese, and basil. Toss to combine.\n4. Drizzle with olive oil and season with salt and pepper to taste.\n5. Serve chilled.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "picture": "https://example.com/chef6.jpg",
+        "name": "Jessica Nguyen",
+        "years_of_experience": 6,
+        "num_of_recipes": 35,
+        "likes": 6000,
+        "description": "Chef Jessica Nguyen is a creative and talented chef with a passion for using fresh, seasonal ingredients in her dishes. She has developed 35 unique recipes that have gained her a following of 6,000 fans.",
+        "recipes": [
+            {
+                "name": "Classic Margherita Pizza",
+                "img": "https://example.com/pizza_margherita.jpg",
+                "ingredients": [
+                    "1 lb pizza dough",
+                    "1/2 cup tomato sauce",
+                    "8 oz fresh mozzarella, sliced",
+                    "10-12 fresh basil leaves",
+                    "1/4 cup grated Parmesan cheese",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 500°F.\n2. Roll out the pizza dough on a floured surface to a thickness of about 1/4 inch.\n3. Place the dough on a lightly oiled pizza pan or baking sheet.\n4. Spread the tomato sauce over the dough, leaving a 1/2-inch border around the edges.\n5. Arrange the sliced mozzarella over the sauce.\n6. Tear the basil leaves into small pieces and sprinkle them over the cheese.\n7. Sprinkle the grated Parmesan over the top.\n8. Drizzle the olive oil over the pizza.\n9. Season with salt and pepper to taste.\n10. Bake for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+                "rating": 4.8
+            },
+            {
+                "name": "Roasted Lemon Chicken",
+                "img": "https://example.com/roasted_chicken.jpg",
+                "ingredients": [
+                    "1 whole chicken, 3-4 lbs",
+                    "1 lemon, cut into wedges",
+                    "4 garlic cloves, peeled",
+                    "2 tbsp olive oil",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 425°F.\n2. Rinse the chicken inside and out and pat dry with paper towels.\n3. Place the chicken in a roasting pan.\n4. Stuff the lemon wedges and garlic cloves into the cavity of the chicken.\n5. Rub the chicken all over with the olive oil.\n6. Season the chicken with salt and black pepper.\n7. Roast the chicken for 1 hour and 15 minutes, or until the juices run clear when the thickest part of the thigh is pierced with a knife.\n8. Let the chicken rest for 10 minutes before carving and serving.",
+                "rating": 4.5
+            },
+            {
+                "name": "Pesto Pasta Salad",
+                "img": "https://example.com/pesto_pasta_salad.jpg",
+                "ingredients": [
+                    "1 lb pasta, cooked and drained",
+                    "1/2 cup pesto",
+                    "1/2 cup cherry tomatoes, halved",
+                    "1/2 cup sliced black olives",
+                    "1/2 cup crumbled feta cheese",
+                    "1/4 cup chopped fresh basil",
+                    "2 tbsp olive oil",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "1. Cook the pasta according to the package instructions. Drain and rinse with cold water.\n2. In a large bowl, toss the cooked pasta with the pesto.\n3. Add the cherry tomatoes, black olives, feta cheese, and basil. Toss to combine.\n4. Drizzle with olive oil and season with salt and pepper to taste.\n5. Serve chilled.",
+                "rating": 4.5
+            }
+        ]
+    }
+]

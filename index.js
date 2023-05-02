@@ -6,6 +6,8 @@ app.get("/", (req, res)=>{
     res.send("Server is runing");
 })
 
+app.get("/")
+
 
 app.listen(port, ()=>{
     console.log(`Server is runing on port ${port}`);
