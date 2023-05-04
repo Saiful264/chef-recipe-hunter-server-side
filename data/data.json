@@ -1,7 +1,7 @@
 [
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "picture": "https://example.com/chef1.jpg",
+        "picture": "https://i.ibb.co/GQcYsS5/pexels-2102934.jpg",
         "name": "John Smith",
         "years_of_experience": 10,
         "num_of_recipes": 50,
@@ -10,7 +10,7 @@
         "recipes": [
             {
                 "name": "Classic Margherita Pizza",
-                "img": "https://example.com/pizza_margherita.jpg",
+                "img": "https://i.ibb.co/qghymB5/pexels-kampus-production-6605214.jpg",
                 "ingredients": [
                     "1 lb pizza dough",
                     "1/2 cup tomato sauce",
@@ -25,7 +25,7 @@
             },
             {
                 "name": "Roasted Lemon Chicken",
-                "img": "https://example.com/roasted_chicken.jpg",
+                "img": "https://i.ibb.co/PtjHQq5/pexels-karolina-grabowska-5718015.jpg",
                 "ingredients": [
                     "1 whole chicken, 3-4 lbs",
                     "1 lemon, cut into wedges",
@@ -39,7 +39,7 @@
             },
             {
                 "name": "Pesto Pasta Salad",
-                "img": "https://example.com/pesto_pasta_salad.jpg",
+                "img": "https://i.ibb.co/m0h1Xb9/pexels-eneida-nieves-803963.jpg",
                 "ingredients": [
                     "1 lb pasta, cooked and drained",
                     "1/2 cup pesto",
@@ -57,7 +57,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-        "picture": "https://example.com/chef2.jpg",
+        "picture": "https://i.ibb.co/f0VnJ1G/pexels-tivasee-9160914.jpg",
         "name": "Maria Rodriguez",
         "years_of_experience": 8,
         "num_of_recipes": 40,
@@ -66,7 +66,7 @@
         "recipes": [
             {
                 "name": "Classic Margherita Pizza",
-                "img": "https://example.com/pizza_margherita.jpg",
+                "img": "https://i.ibb.co/qghymB5/pexels-kampus-production-6605214.jpg",
                 "ingredients": [
                     "1 lb pizza dough",
                     "1/2 cup tomato sauce",
@@ -81,7 +81,7 @@
             },
             {
                 "name": "Roasted Lemon Chicken",
-                "img": "https://example.com/roasted_chicken.jpg",
+                "img": "https://i.ibb.co/PtjHQq5/pexels-karolina-grabowska-5718015.jpg",
                 "ingredients": [
                     "1 whole chicken, 3-4 lbs",
                     "1 lemon, cut into wedges",
@@ -95,7 +95,7 @@
             },
             {
                 "name": "Pesto Pasta Salad",
-                "img": "https://example.com/pesto_pasta_salad.jpg",
+                "img": "https://i.ibb.co/m0h1Xb9/pexels-eneida-nieves-803963.jpg",
                 "ingredients": [
                     "1 lb pasta, cooked and drained",
                     "1/2 cup pesto",
@@ -113,7 +113,7 @@
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71011",
-        "picture": "https://example.com/chef3.jpg",
+        "picture": "https://i.ibb.co/W35pq8r/chef-1.jpg",
         "name": "David Lee",
         "years_of_experience": 5,
         "num_of_recipes": 30,
@@ -122,7 +122,7 @@
         "recipes": [
             {
                 "name": "Classic Margherita Pizza",
-                "img": "https://example.com/pizza_margherita.jpg",
+                "img": "https://i.ibb.co/qghymB5/pexels-kampus-production-6605214.jpg",
                 "ingredients": [
                     "1 lb pizza dough",
                     "1/2 cup tomato sauce",
@@ -137,7 +137,7 @@
             },
             {
                 "name": "Roasted Lemon Chicken",
-                "img": "https://example.com/roasted_chicken.jpg",
+                "img": "https://i.ibb.co/PtjHQq5/pexels-karolina-grabowska-5718015.jpg",
                 "ingredients": [
                     "1 whole chicken, 3-4 lbs",
                     "1 lemon, cut into wedges",
@@ -151,7 +151,7 @@
             },
             {
                 "name": "Pesto Pasta Salad",
-                "img": "https://example.com/pesto_pasta_salad.jpg",
+                "img": "https://i.ibb.co/m0h1Xb9/pexels-eneida-nieves-803963.jpg",
                 "ingredients": [
                     "1 lb pasta, cooked and drained",
                     "1/2 cup pesto",
@@ -169,7 +169,7 @@
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71012",
-        "picture": "https://example.com/chef4.jpg",
+        "picture": "https://i.ibb.co/Z1QkkQ1/chef-3.jpg",
         "name": "Sophie Williams",
         "years_of_experience": 12,
         "num_of_recipes": 60,
@@ -178,7 +178,7 @@
         "recipes": [
             {
                 "name": "Classic Margherita Pizza",
-                "img": "https://example.com/pizza_margherita.jpg",
+                "img": "https://i.ibb.co/qghymB5/pexels-kampus-production-6605214.jpg",
                 "ingredients": [
                     "1 lb pizza dough",
                     "1/2 cup tomato sauce",
@@ -193,7 +193,7 @@
             },
             {
                 "name": "Roasted Lemon Chicken",
-                "img": "https://example.com/roasted_chicken.jpg",
+                "img": "https://i.ibb.co/PtjHQq5/pexels-karolina-grabowska-5718015.jpg",
                 "ingredients": [
                     "1 whole chicken, 3-4 lbs",
                     "1 lemon, cut into wedges",
@@ -207,7 +207,7 @@
             },
             {
                 "name": "Pesto Pasta Salad",
-                "img": "https://example.com/pesto_pasta_salad.jpg",
+                "img": "https://i.ibb.co/m0h1Xb9/pexels-eneida-nieves-803963.jpg",
                 "ingredients": [
                     "1 lb pasta, cooked and drained",
                     "1/2 cup pesto",
@@ -225,7 +225,7 @@
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f9",
-        "picture": "https://example.com/chef5.jpg",
+        "picture": "https://i.ibb.co/zQ4zHW1/chef-2.jpg",
         "name": "Michael Chang",
         "years_of_experience": 3,
         "num_of_recipes": 20,
@@ -234,7 +234,7 @@
         "recipes": [
             {
                 "name": "Classic Margherita Pizza",
-                "img": "https://example.com/pizza_margherita.jpg",
+                "img": "https://i.ibb.co/qghymB5/pexels-kampus-production-6605214.jpg",
                 "ingredients": [
                     "1 lb pizza dough",
                     "1/2 cup tomato sauce",
@@ -249,7 +249,7 @@
             },
             {
                 "name": "Roasted Lemon Chicken",
-                "img": "https://example.com/roasted_chicken.jpg",
+                "img": "https://i.ibb.co/PtjHQq5/pexels-karolina-grabowska-5718015.jpg",
                 "ingredients": [
                     "1 whole chicken, 3-4 lbs",
                     "1 lemon, cut into wedges",
@@ -263,7 +263,7 @@
             },
             {
                 "name": "Pesto Pasta Salad",
-                "img": "https://example.com/pesto_pasta_salad.jpg",
+                "img": "https://i.ibb.co/m0h1Xb9/pexels-eneida-nieves-803963.jpg",
                 "ingredients": [
                     "1 lb pasta, cooked and drained",
                     "1/2 cup pesto",
@@ -281,7 +281,7 @@
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f0",
-        "picture": "https://example.com/chef6.jpg",
+        "picture": "https://i.ibb.co/xhDfHdY/chef-4.jpg",
         "name": "Jessica Nguyen",
         "years_of_experience": 6,
         "num_of_recipes": 35,
@@ -290,7 +290,7 @@
         "recipes": [
             {
                 "name": "Classic Margherita Pizza",
-                "img": "https://example.com/pizza_margherita.jpg",
+                "img": "https://i.ibb.co/qghymB5/pexels-kampus-production-6605214.jpg",
                 "ingredients": [
                     "1 lb pizza dough",
                     "1/2 cup tomato sauce",
@@ -305,7 +305,7 @@
             },
             {
                 "name": "Roasted Lemon Chicken",
-                "img": "https://example.com/roasted_chicken.jpg",
+                "img": "https://i.ibb.co/PtjHQq5/pexels-karolina-grabowska-5718015.jpg",
                 "ingredients": [
                     "1 whole chicken, 3-4 lbs",
                     "1 lemon, cut into wedges",
@@ -319,7 +319,7 @@
             },
             {
                 "name": "Pesto Pasta Salad",
-                "img": "https://example.com/pesto_pasta_salad.jpg",
+                "img": "https://i.ibb.co/m0h1Xb9/pexels-eneida-nieves-803963.jpg",
                 "ingredients": [
                     "1 lb pasta, cooked and drained",
                     "1/2 cup pesto",
